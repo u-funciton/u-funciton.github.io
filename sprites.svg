@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  style="position:absolute;width:0;height:0;visibility:hidden">
+  <defs>
+    <symbol id="sun" viewBox="0 0 20 20">
+      <path fill="currentColor" d="..."/>
+    </symbol>
+    <symbol id="moon" viewBox="0 0 20 20">
+      <path fill="currentColor" d="..."/>
+    </symbol>
+  </defs>
+</svg>
