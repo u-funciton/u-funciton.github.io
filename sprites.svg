@@ -3,10 +3,10 @@
   style="position:absolute;width:0;height:0;visibility:hidden">
   <defs>
     <symbol id="moon" viewBox="0 0 20 20">
-      <circle cx="10" cy="10" cr="8">
+      <circle cx="10" cy="10" r="8" style="fill: silver; stroke: grey;">
     </symbol>
     <symbol id="moon" viewBox="0 0 20 20">
-      <circle cx="10" cy="10" cr="8">
+      <circle cx="10" cy="10" r="8" style="fill: goldenrod; stroke: black;">
     </symbol>
   </defs>
 </svg>
